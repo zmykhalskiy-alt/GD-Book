@@ -35,5 +35,3 @@ If Windows says "Windows protected your PC", click **More info → Run anyway**.
 Progress is saved on your device only. Nothing is sent anywhere.
 
 ---
-
-🇺🇦 **Українською:** журнал прогресу Geometry Dash. Обери ціль, отримай шлях із рівнів, записуй спроби й рекорди, проходь курс креатора та збирай досягнення. На телефоні відкрий посилання вище й додай на початковий екран.
